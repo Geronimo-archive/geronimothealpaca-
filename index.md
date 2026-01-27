@@ -1,4 +1,3 @@
-# Geronimo the Alpaca — Public Document Archive
 
 This website is a public archive of primary documents relating to Geronimo the alpaca.
 
